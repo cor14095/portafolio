@@ -1,0 +1,96 @@
+/**
+* Style made by Perry
+*/
+
+.perry-text {
+  color: #05A9A6 !important;
+}
+
+.perry-mouth {
+  background-color: #F1AD20 !important;
+}
+
+.perry-background {
+  background-color: #05A9A6 !important;
+}
+
+.perry-tail {
+  background-color: #EFBF7D !important;
+}
+
+.dark-bg-3 {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+}
+
+#logo-container img {
+  width: 37%;
+  margin: 0 auto;
+}
+
+nav a {
+  color: #05A9A6 !important;
+}
+
+nav .brand-logo {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  width: 30%;
+}
+
+.side-nav li:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.side-nav li {
+  border-bottom: 1px solid #F1AD20;
+}
+
+@media only screen and (max-width: 984px) {
+  #logo-container img {
+    width: 56%;
+  }
+
+  .about-me-p {
+    width: 70% !important;
+  }
+
+  .flex-center {
+    display: block !important;
+  }
+
+  .indicator-item {
+    width: 25px !important;
+    height: 25px !important;
+  }
+
+  .about-me-img {
+    width: 95% !important;
+  }
+}
+
+.max-height {
+  height: 100% !important;
+}
+
+.about-me-p {
+  width: 50%;
+  max-height: 50%;
+  margin: 0 auto;
+  text-align: justify;
+  overflow: auto;
+}
+
+.icon-holder {
+  margin: 5% auto;
+  width: 25%;
+}
+
+.icons img {
+  max-width: 100%;
+}

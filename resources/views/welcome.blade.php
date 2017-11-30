@@ -22,7 +22,7 @@
           <li><a href="#aboutMe">About me</a></li>
           <li><a href="#myWork">My work</a></li>
           <li><a href="#iKnow">What I know</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
@@ -30,7 +30,7 @@
           <li><a href="#aboutMe">About me</a></li>
           <li><a href="#myWork">My work</a></li>
           <li><a href="#iKnow">What I know</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
         <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
       </div>
@@ -150,7 +150,7 @@
       </div>
     </div>
 
-    <div class="container">
+    <div class="container" id="contact">
       <div class="section">
 
         <div class="row">
